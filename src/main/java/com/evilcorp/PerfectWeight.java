@@ -1,4 +1,4 @@
-package com.evilcorp.com.evilcorp;
+package com.evilcorp;
 
 public class PerfectWeight {
     public static void main(String[] args) {
