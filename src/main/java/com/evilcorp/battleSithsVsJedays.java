@@ -8,7 +8,7 @@ public class battleSithsVsJedays {
         final boolean sithHigher = heightJedi < heightSith;
         final boolean faceToFace = heightJedi == heightSith;
         final boolean palpatine = false;
-        final boolean obiVanVsDarthMoll = true;
+        final boolean obiVanVsDarthMoll = false;
         if ((jediHigher || sithHigher || (faceToFace && obiVanVsDarthMoll)) && !palpatine) {
             System.out.println("Jedi will win! Go fight!");
         } else {
